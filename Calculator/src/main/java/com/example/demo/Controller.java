@@ -46,16 +46,6 @@ public class Controller {
         calModel.setCal(newOperation);
         //newOperation = new Subtraction_cal();
         calModel.setCal(newOperation);
-
-
-
-
-
-
-
-
-
-
         calModel.setValue2Switch(true);
         Screen.setText(calModel.getValue1().toString());
     }
